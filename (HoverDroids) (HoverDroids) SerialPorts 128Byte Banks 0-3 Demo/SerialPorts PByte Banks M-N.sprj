@@ -1,0 +1,123 @@
+[Iamabstprojectfile]
+Iamthemagicnumber=1
+
+[Main]
+SelectedTab=0
+TreePath=C:\\Projects\tCubed\The AppCube
+NumSubs=1
+OverrideOptimisation=0
+OptimiseFlags=0
+SearchPath=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications
+
+[File1]
+FileName=F:\Code\Spin\Propeller Example Projects\(HoverDroids) (HoverDroids) SerialPorts 128Byte Banks 0-3 Demo\(HoverDroids) SerialPorts 128Byte Banks 0-3 Demo.spin
+TopLine=1
+
+[File2]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 32Byte x8.spin
+TopLine=286
+Folds=1,115,118,122,125,129,137,143,148,156,164,172,180,188,196,204,212,220,228,236,244,252,260,316,
+
+[File3]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 32Byte x12.spin
+TopLine=290
+Folds=1,116,119,124,127,131,140,148,154,163,172,181,190,199,208,217,226,235,244,253,262,271,280,343,
+
+[File4]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 128Byte x4.spin
+TopLine=215
+Folds=1,116,119,122,125,129,135,139,143,149,155,161,167,173,179,185,191,197,203,209,215,221,227,269,
+
+[File5]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 128Byte x8.spin
+TopLine=181
+Folds=1,116,119,123,126,130,138,144,149,157,165,173,181,189,197,205,213,221,229,237,245,253,317,
+
+[File6]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 128Byte x12.spin
+TopLine=298
+Folds=1,116,119,124,127,131,140,148,154,163,172,181,190,199,208,217,226,235,244,253,262,271,280,343,
+
+[File7]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 512Byte x4.spin
+TopLine=240
+Folds=1,116,119,122,125,129,135,139,143,149,155,161,167,173,179,185,191,197,203,209,215,221,
+
+[File8]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 512Byte x8.spin
+TopLine=1
+Folds=1,116,119,123,126,130,138,144,148,156,164,172,180,188,196,204,212,220,228,236,244,252,
+
+[File9]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 512Byte x12.spin
+TopLine=312
+Folds=1,116,119,124,127,131,140,148,152,161,170,179,188,197,206,215,224,233,260,269,
+
+[File10]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 128Byte Banks 0-3.spin
+TopLine=717
+Folds=1,234,242,290,323,333,341,349,362,396,404,414,424,433,443,454,488,500,511,523,534,
+
+[File11]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 32Byte Banks 0-3.spin
+TopLine=514
+
+[File12]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 32Byte Banks 4-7.spin
+TopLine=1
+
+[File13]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 32Byte Banks 8-11.spin
+TopLine=1
+
+[File14]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 128Byte Banks 4-7.spin
+TopLine=1
+
+[File15]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 128Byte Banks 8-11.spin
+TopLine=1
+
+[File16]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 512Byte Banks 0-3.spin
+TopLine=1
+
+[File17]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 512Byte Banks 4-7.spin
+TopLine=1
+
+[File18]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\(HoverDroids) SerialPorts 512Byte Banks 8-11.spin
+TopLine=1
+
+[File19]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\SerialPortBank2B.spin
+TopLine=1
+
+[File20]
+FileName=F:\Code\Spin\Propeller Spin Library\Categories\Serial Communications\Parallax Serial Terminal.spin
+TopLine=75
+
+[File21]
+FileName=F:\Code\Spin\Propeller Example Projects\FullDuplexSerial 4Port Demo\demo1_FDS4port.spin
+TopLine=49
+
+[File22]
+FileName=F:\Code\Spin\Propeller Example Projects\FullDuplexSerial 4Port Demo\demo2_FDS4port.spin
+TopLine=42
+
+[File23]
+FileName=F:\Code\Spin\Propeller Example Projects\FullDuplexSerial 4Port Demo\testFDS4PP_v0v3.spin
+TopLine=25
+
+[File24]
+FileName=F:\Code\Spin\Propeller Example Projects\fullDuplexSerial4port_1v01 Demo\demo1_FDS4port.spin
+TopLine=50
+
+[File25]
+FileName=F:\Code\Spin\Propeller Example Projects\fullDuplexSerial4port_1v01 Demo\demo2_FDS4port.spin
+TopLine=1
+
+[File26]
+FileName=F:\Code\Spin\Propeller Example Projects\(HoverDroids) (HoverDroids) SerialPorts 128Byte Banks 0-3 Demo\(HoverDroids) (HoverDroids) SerialPorts 128Byte Banks 0-3 Demo.spin
+TopLine=1
